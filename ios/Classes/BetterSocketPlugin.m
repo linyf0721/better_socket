@@ -1,5 +1,5 @@
 #import "BetterSocketPlugin.h"
-#import <SRWebSocket.h>
+#import "SRWebSocket.h"
 
 
 @interface BetterSocketPlugin()<SRWebSocketDelegate,FlutterStreamHandler>
